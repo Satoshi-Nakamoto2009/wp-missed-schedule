@@ -1,0 +1,17 @@
+WP Missed Schedule -- Version 2015.1231.3.0 - Build 2015-08-28 -- SHA1 Checksum
+
+------------------------------ Beta Branche 2015 ------------------------------
+
+index.html                             7BFCA8C40496ED3D3847BC234BB62F1DE23D9AC7
+.htaccess                              F28410E3EFD440C457B66815579C5E338FA7D7C0
+beta-version-install-instructions.txt  D4004C92A6DBD7DAEBF90E832B7461F6A0133668
+dev-version-available-github-only.txt  9819905EEC0B0F3E2E08573AEBD0E7F4816363A1
+gpl-2.0.txt                            4CC77B90AF91E615A64AE04893FDFFA7939DB84C
+how-to-translate-this-plugin.txt       043D82F3916D03DAA04126BBA6B29992F0B23DF4
+humans.txt                             168BFA11FC827C2309C5D0F4E0A8FD3485CC945B
+index.php                              0B29370A812ADC51BEB260F3A548DF09B922E36D
+license.txt                            4CC77B90AF91E615A64AE04893FDFFA7939DB84C
+no-support-gived-on-forum.txt          C96CB7D0F84952AE375F358F5624A78CEE2174C4
+readme.txt                             1B75EE6F2D98A9CF5CCE11D3DB5673EABC9C2B49
+uninstall.php                          FBC138A5420F7F73E221217B686FA1950DD4C2E6
+wp-missed-schedule.php                 3ED7F6031E60588D9109F546264D73D089871D00
